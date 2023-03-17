@@ -24,7 +24,7 @@
 </br>
 
 ## 4. ERD 
- - 업데이트하세요
+ - ![KakaoTalk_20230315_143218121](https://user-images.githubusercontent.com/119827192/225823244-f3d3101d-c239-4708-ac68-95d41c407651.png)
 
 ## 5. 기능
 - 업데이트 하세요
