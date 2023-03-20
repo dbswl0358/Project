@@ -36,15 +36,15 @@
 <summary><b>기능 설명</b></summary>
 <div markdown="1">
 
-### 5.1. Review List(Pagination)
+### Review List(Pagination)
 
-### 5.2. Review Detail(Comment)
+### Review Detail(Comment)
 
-### 5.3. Review Write, Modify, Delete
+### Review Write, Modify, Delete
 
-### 5.4. Shop Detail
+### Shop Detail
 
-### 5.5. 
+### Mypage Review 
  
  <br>
 
