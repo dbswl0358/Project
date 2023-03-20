@@ -28,7 +28,7 @@
 </br>
 
 ## 사용 기술
-  - ![사용기술](https://user-images.githubusercontent.com/119827192/226220507-adf8d159-58a2-4e8e-a1f5-097d891f0a7c.png)
+   ![사용기술](https://user-images.githubusercontent.com/119827192/226220507-adf8d159-58a2-4e8e-a1f5-097d891f0a7c.png)
 </br>
 
 
