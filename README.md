@@ -14,13 +14,13 @@
  - About, Review, Shop detail, my page review, popup 부분
 </br>
 
-## Usecase
-  ![image](https://user-images.githubusercontent.com/118063903/218922203-fb179f0b-58ae-49ad-a4a4-7a5bae93c799.png)
-</br>
-
 ## Story Board
   https://ovenapp.io/view/d8vEawKkOu9QQng588LYe7bLkWTRn3t6/ - 메인 페이지
   https://ovenapp.io/view/BM4d6oB3Z3aQJa47vE3Xh4ChlqFkR2HA/ - 관리자 페이지
+</br>
+
+## Usecase
+  ![image](https://user-images.githubusercontent.com/118063903/218922203-fb179f0b-58ae-49ad-a4a4-7a5bae93c799.png)
 </br>
 
 ## ERD 
@@ -31,25 +31,21 @@
   - ![사용기술](https://user-images.githubusercontent.com/119827192/226220507-adf8d159-58a2-4e8e-a1f5-097d891f0a7c.png)
 </br>
 
-## 5. 기능
-- 업데이트 하세요
 
 <details>
 <summary><b>기능 설명</b></summary>
 <div markdown="1">
 
-### 5.1. 
+### 5.1. Review List(Pagination)
 
+### 5.2. Review Detail(Comment)
 
-### 5.2. 
+### 5.3. Review Write, Modify, Delete
 
+### 5.4. Shop Detail
 
-### 5.3. 
-
-### 5.4. 
-
-
- ### 5.5. 
+### 5.5. 
+ 
  <br>
 
 </div>
