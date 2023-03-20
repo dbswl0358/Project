@@ -1,16 +1,17 @@
 # :pushpin: 오노레 쇼핑몰 프로젝트
->스프링을 활용한 남성 수제화 쇼핑몰 프로젝트,  
+>스프링을 활용한 남성 수제화 쇼핑몰 프로젝트  
 
 </br>
 
-## 1. 제작 기간 & 참여 인원
+## 1. 제작 기간 & 참여 인원 & 나의 담당파트
 - 2023년 02월 10일 ~ 2023년 03월 28일
 - 팀 프로젝트(5명)
+- About, Review, Shop detail, my page review, popup 부분
 </br>
 
 ## 2. 사용 기술
 #### `Stack`
-  - 업데이트하세요
+  - ![사용기술](https://user-images.githubusercontent.com/119827192/226220507-adf8d159-58a2-4e8e-a1f5-097d891f0a7c.png)
 </br>
 
 ## 3. Usecase Diagram
