@@ -32,9 +32,6 @@
 </br>
 
 ## 기능
-<details>
-
-<div markdown="1">
 
 ### Review List(Pagination)
 
