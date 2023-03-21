@@ -33,7 +33,7 @@
 
 ## 기능
 <details>
-<summary><b>기능 설명</b></summary>
+
 <div markdown="1">
 
 ### Review List(Pagination)
