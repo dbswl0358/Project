@@ -39,17 +39,21 @@ http://118.67.135.214:8888/OnoreTeamProject/admin/main
 </br>
 
 ## 기능
-<markdown=1>
+
 ### Notice
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/119827192/226804856-6e240bdc-49c5-4c31-9711-070d9ebae597.gif)
+
+<br>
 
 ### Review Detail, Write, Modify, Delete
 ![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/119827192/226804907-a49e554f-7cb8-425a-a425-23461769367a.gif)
 
+<br>
 
 ### Shop Detail
  ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/119827192/226802262-591d8904-8232-4d8f-8ae0-c4dba6ed79c8.gif)
 
+<br>
 
 ### Mypage Review 
 ![ezgif com-video-to-gif (4)](https://user-images.githubusercontent.com/119827192/226804918-bfbe1a87-77b7-4614-b2bd-1323db2fc5c5.gif)
@@ -58,14 +62,5 @@ http://118.67.135.214:8888/OnoreTeamProject/admin/main
  <br>
 
 </div>
-</details>
 
 </br>
-
-## 6. 프로젝트 진행과정
-
-<br>
-
-## 7. 임의 작성
-<br>
-
