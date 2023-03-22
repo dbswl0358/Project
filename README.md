@@ -39,7 +39,7 @@ http://118.67.135.214:8888/OnoreTeamProject/admin/main
 </br>
 
 ## 기능
-
+<markdown=1>
 ### Notice
 ![ezgif com-video-to-gif (2)](https://user-images.githubusercontent.com/119827192/226804856-6e240bdc-49c5-4c31-9711-070d9ebae597.gif)
 
