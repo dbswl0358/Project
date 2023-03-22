@@ -3,6 +3,13 @@
 
 </br>
 
+## 프로젝트 페이지
+http://118.67.135.214:8888/OnoreTeamProject/admin/main
+
+관리자용 계정 ID : admin </br>
+관리자용 계정 PW : 1q2w3e4r!
+
+
 ## 프로젝트 설명
  - 주제 선정 :  배운 것들을 가장 많이 활용 해 볼 수 있는 페이지로 선정 (게시판, ajax, 로그인 등..)
  - 목표 : 벤치미킹을 한 쇼핑몰 보다 조금더 기능적으로 세세한 오류 등 불편한 점 보완
@@ -40,6 +47,8 @@
 ### Review Write, Modify, Delete
 
 ### Shop Detail
+ ![ezgif com-video-to-gif (1)](https://user-images.githubusercontent.com/119827192/226802262-591d8904-8232-4d8f-8ae0-c4dba6ed79c8.gif)
+
 
 ### Mypage Review 
  
