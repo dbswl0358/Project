@@ -4,7 +4,7 @@
 </br>
 
 ## 프로젝트 페이지
-http://118.67.135.214:8888/OnoreTeamProject/main/
+- 이력서 참조
 
 관리자용 계정 ID : admin </br>
 관리자용 계정 PW : 1q2w3e4r!
